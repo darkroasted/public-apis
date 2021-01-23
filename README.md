@@ -165,6 +165,7 @@ API | Description | Auth | HTTPS | CORS |
 | [OneDrive](https://dev.onedrive.com/) | File Sharing and Storage | `OAuth` | Yes | Unknown |
 | [Pastebin](https://pastebin.com/api/) | Plain Text Storage | `apiKey` | Yes | Unknown |
 | [Temporal](https://gateway.temporal.cloud/ipns/docs.api.temporal.cloud) | IPFS based file storage and sharing with optional IPNS naming | `apiKey` | Yes | No |
+| [GoFile](https://gofile.io/api) | Unlimited size file uploads for free| `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 ### Continuous Integration
